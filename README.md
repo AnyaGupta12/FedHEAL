@@ -124,6 +124,16 @@ This project extends the original **FedHEAL** framework by integrating a novel *
 - **Lower STD** across domains indicates better fairness.
 - Converges faster with fewer communication rounds.
 
+### Graphical representation of the convergence across communication rounds
+
+On Digits Dataset
+
+![Digits_result](/Novelty_digits.png)
+
+On Office Caltech Dataset
+
+![Office_caltech_result](/Novelty_office_caltech.png)
+
 ---
 
 ## Disclaimer
