@@ -17,12 +17,12 @@ This project contains the implementation of the **FedHEAL** algorithm along with
 
 ## Included Datasets
 
-The project ZIP files (`FedHEAL-main.zip` and `FedHEAL-extension.zip`) already contain the required datasets:
+The project makes use of the following datasets:
 
 - **Digits Dataset**: Includes MNIST, USPS, SVHN, and SYN numbers.
 - **Office-Caltech Dataset**: Includes Caltech, Amazon, Webcam, and DSLR domains.
 
-**No need to download datasets separately.**
+**download datasets separately and place them in the data0 directory**
 
 ---
 
